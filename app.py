@@ -5,7 +5,7 @@ from Spotipy import get_emotion_recommendations
 
 app = Flask(__name__)
 
-app.secret_key = 'mysecretkey114'
+app.secret_key = ''
 
 camera = VideoCamera()
 
