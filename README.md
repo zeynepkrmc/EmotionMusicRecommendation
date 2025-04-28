@@ -89,9 +89,9 @@ Moodify is a fun and innovative project that combines facial emotion recognition
 
 # 👥 Authors
 
+- Zeynep Sude KIRMACI
 - Gizem EROL
 - Selvinaz Zeynep KIYIKCI
-- Zeynep Sude KIRMACI
 
 * CEN435 – Artificial Intelligence Project
 Autumn 2024
